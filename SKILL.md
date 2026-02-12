@@ -1,12 +1,10 @@
 ---
 name: flywheel-design
-description: Design self-reinforcing growth cycles where each element feeds the next,
-  creating compounding advantages over time. This is the strategic architecture behind
-  Amazon's dominance.
+description: Design self-reinforcing growth cycles where each element feeds the next, creating compounding advantages over time. This is the strategic architecture behind Amazon's dominance.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - flywheel-design
 - structure
